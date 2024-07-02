@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(192, 123, 255);
+}
+h1{
+    text-align: center;
+    color: rgb(55, 54, 175)
+}
+h2{
+ text-align: center;
+ color: rgb(128, 9, 62);
+}
+.bey{
+    display: flex;
+    align-items: center;
+}
+
+.bey img{
+    margin-right: 1px;
+}
+img {
+    border: 5px solid rgb(23, 3, 27);
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+li{
+    display: inline; 
+    margin-right: 10px;
+}
